@@ -15,6 +15,7 @@ Built using Godot 3.5
   * [Open Color open source color scheme](https://yeun.github.io/open-color/)
   * [Sniglet Typface](https://www.theleagueofmoveabletype.com/sniglet)
   * [SunnySpells Typeface](https://fontmeme.com/fonts/sunny-spells-font/)
+  * [Eazy/Ready or Not Music by Independent Music Licensing Collective IMLC (https://freemusicarchive.org/music/independent-music-licensing-collective-imlc/eazy-lp-1/eazy-ready-or-not/)
 
   *Shaders:
     * [Animated Stripes by alxl](https://godotshaders.com/shader/animated-stripes/)
